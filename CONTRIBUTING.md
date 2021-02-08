@@ -23,5 +23,5 @@ This is because iOS/expo doesn't have a solid understanding of release candidate
 ```
 yarn ship
 ```
-
+......
 That version gets shipped to beta testers but might not actually be the version released to the store.
